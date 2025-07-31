@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🛍️ Laravel E-Commerce Clothing Store
 
 A modern and responsive e-commerce web application for a clothing store, built using **Laravel**, **Breeze**, and **Tailwind CSS**. Includes a user-friendly interface for customers and a secure admin panel for store management.
